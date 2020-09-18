@@ -1,5 +1,5 @@
-# literate-octo-pancake
-Repository for project literate-octo-pancake NLP multi language translation analysis
+# literate-octo-pancake (LOP)
+Repository for project literate-octo-pancake LOP natural language processing (NLP) multi language translation analysis 
 
 ## Overview
 
