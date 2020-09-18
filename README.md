@@ -1,5 +1,5 @@
 # Longitudinal Overview Project - (LOP)
-Repository for project literate-octo-pancake LOP natural language processing (NLP) multi language translation analysis 
+Repository for project Longitudinal Oveview Project LOP natural language processing (NLP) multi language translation analysis 
 
 ## Overview
 
