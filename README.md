@@ -1,5 +1,5 @@
 # Longitudinal Overview Project (LOP)
-Repository for the Longitudinal Overview Project (LOP), a natural language processing (NLP) multi-language translation analysis. 
+Repository for the Longitudinal Overview Project (LOP), a natural language processing (NLP) french-english language translation analysis. 
 
 ## Overview
 
